@@ -1,0 +1,2 @@
+This document discusses security aspects and potential vulnerabilities associated with Amazon Cognito when used for user authentication and authorization in web or mobile applications. Cognito offers features like User Pools (for authentication) and Identity Pools (for accessing AWS resources via temporary credentials). Misconfigurations or improper usage can lead to security risks such as privilege escalation, unauthorized resource access, or account takeovers.
+
